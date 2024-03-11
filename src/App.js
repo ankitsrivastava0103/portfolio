@@ -1,6 +1,8 @@
-function App() {
-  return <div className="text-3xl font-bold underline">Test</div>;
-}
+import AppLayout from "./AppLayout";
+
+const App = () => {
+  return <AppLayout />;
+};
 
 export default App;
 
