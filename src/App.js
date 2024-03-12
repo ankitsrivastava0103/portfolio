@@ -1,7 +1,5 @@
-import AppLayout from "./AppLayout";
-
 const App = () => {
-  return <AppLayout />;
+  return <></>;
 };
 
 export default App;
